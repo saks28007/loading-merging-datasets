@@ -12,11 +12,11 @@ This repository includes the code and results for the first experiment in the In
 **4. Exporting Data :** *The combined dataset is optionally saved to a CSV file for further use or analysis.*
 
 # Key Concepts Applied: 
-**-Pandas Library :** A tool for working with and analyzing data easily._
+**-Pandas Library :** _A tool for working with and analyzing data easily._
 <br>
-**-DataFrames :** A structure used in Pandas to store and organize data in tables._
+**-DataFrames :** _A structure used in Pandas to store and organize data in tables._
 <br>
-**-Merging Datasets :** The pd.merge() function is used to join two datasets together based on a common column, creating one unified dataset._
+**-Merging Datasets :** _The pd.merge() function is used to join two datasets together based on a common column, creating one unified dataset._
 
 # Action Plan
 **1. Get started with Google Colab :**
